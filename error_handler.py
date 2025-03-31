@@ -60,6 +60,8 @@ what if we want the user to correct herself without leaving the program """
     and put every single action in a function
     so as to create reusability of code or ordered adjustment to code """
 
+
+
 def main():
     print(f"X is {get_value()}")
 
